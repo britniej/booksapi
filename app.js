@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 const swaggerOptions = {
     swaggerDefinition: {
         info: {
-            title: 'Library API',
+            title: 'My bookshelf API',
             version: '1.0.0'
         }
     },
